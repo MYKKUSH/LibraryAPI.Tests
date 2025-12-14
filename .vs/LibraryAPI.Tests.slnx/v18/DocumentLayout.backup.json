@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programs\\Labs\\LibraryAPI.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2525BD2D-36A0-A2E5-D197-95B6DB93EC52}|LibraryAPI.Tests.csproj|d:\\programs\\labs\\libraryapi.tests\\authorservicetests.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2525BD2D-36A0-A2E5-D197-95B6DB93EC52}|LibraryAPI.Tests.csproj|solutionrelative:authorservicetests.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2525BD2D-36A0-A2E5-D197-95B6DB93EC52}|LibraryAPI.Tests.csproj|d:\\programs\\labs\\libraryapi.tests\\bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2525BD2D-36A0-A2E5-D197-95B6DB93EC52}|LibraryAPI.Tests.csproj|solutionrelative:bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BF271-E3CC-61BD-1879-3A75BC47FCE2}|..\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj|d:\\programs\\labs\\libraryapi\\libraryapi\\libraryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 331,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookServiceTests.cs",
+              "DocumentMoniker": "D:\\Programs\\Labs\\LibraryAPI.Tests\\BookServiceTests.cs",
+              "RelativeDocumentMoniker": "BookServiceTests.cs",
+              "ToolTip": "D:\\Programs\\Labs\\LibraryAPI.Tests\\BookServiceTests.cs",
+              "RelativeToolTip": "BookServiceTests.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T14:48:09.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryAPI.csproj",
+              "DocumentMoniker": "D:\\Programs\\Labs\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+              "ToolTip": "D:\\Programs\\Labs\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+              "RelativeToolTip": "..\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-06T14:28:35.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorServiceTests.cs.cs",
+              "DocumentMoniker": "D:\\Programs\\Labs\\LibraryAPI.Tests\\AuthorServiceTests.cs.cs",
+              "RelativeDocumentMoniker": "AuthorServiceTests.cs.cs",
+              "ToolTip": "D:\\Programs\\Labs\\LibraryAPI.Tests\\AuthorServiceTests.cs.cs",
+              "RelativeToolTip": "AuthorServiceTests.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T14:26:50.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

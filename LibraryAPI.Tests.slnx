@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="BookServiceTests.cs" />
+  </Folder>
+  <Project Path="../LibraryAPI/LibraryAPI/LibraryAPI.csproj" />
+  <Project Path="LibraryAPI.Tests.csproj" />
+</Solution>
